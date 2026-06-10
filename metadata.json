@@ -1,0 +1,6 @@
+{
+  "name": "Inscrição de Evento de Jogos",
+  "description": "Plataforma de inscrição para eventos de jogos com painel de administração integrado, integração Supabase e disparo de webhooks n8n.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
